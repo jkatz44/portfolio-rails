@@ -1,0 +1,47 @@
+// Place all the styles related to the Pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.header {
+  background-color: tan;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+.main {
+	color: Black;
+  font-family: 'Roboto', sans-serif;
+  font-size:16px;
+  text-align: center;
+  background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBh-   	   BwvLksJzuv8thqfuNk-vhrcjOirAlgoGCl-0lp6j02oaCKmlfXMw');
+  background-size: 100% 100%;
+  }
+
+.btn-default {
+   border-top: 1px solid #ffffff;
+   background: #ffffff;
+   background: -webkit-gradient(linear, left top, left bottom,      	    			 from(#ffffff), to(#ffffff));
+   background: -webkit-linear-gradient(top, #ffffff, #ffffff);
+   background: -moz-linear-gradient(top, #ffffff, #ffffff);
+   background: -ms-linear-gradient(top, #ffffff, #ffffff);
+   background: -o-linear-gradient(top, #ffffff, #ffffff);
+   padding: 9.5px 19px;
+   -webkit-border-radius: 11px;
+   -moz-border-radius: 11px;
+   border-radius: 11px;
+   -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   box-shadow: rgba(0,0,0,1) 0 1px 0;
+   text-shadow: rgba(0,0,0,.4) 0 1px 0;
+   color: #000000;
+   font-size: 10px;
+   font-family: Helvetica, Arial, Sans-Serif;
+   text-decoration: none;
+   vertical-align: middle;
+   }
+   
+  
+a {
+color: gray;
+}
+
